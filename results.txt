@@ -1,0 +1,349 @@
+2nd test with Positive,Netural,Negitive Changed maxed features 40k
+Confusion Matrix:
+[[13081  2366   734]
+ [ 1460  5911  1114]
+ [ 3566  8576 76883]]
+Accuracy Score: 
+0.8432945439832529
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.72      0.81      0.76     16181
+     Neutral       0.35      0.70      0.47      8485
+    Positive       0.98      0.86      0.92     89025
+
+    accuracy                           0.84    113691
+   macro avg       0.68      0.79      0.72    113691
+weighted avg       0.89      0.84      0.86    113691
+
+2nd test with Positive,Netural,Negitive Changed maxed features 40k
+Confusion Matrix:
+[[13081  2366   734]
+ [ 1460  5911  1114]
+ [ 3566  8576 76883]]
+Accuracy Score: 
+0.8432945439832529
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.72      0.81      0.76     16181
+     Neutral       0.35      0.70      0.47      8485
+    Positive       0.98      0.86      0.92     89025
+
+    accuracy                           0.84    113691
+   macro avg       0.68      0.79      0.72    113691
+weighted avg       0.89      0.84      0.86    113691
+
+2nd test with Positive,Netural,Negitive Changed maxed features 40k
+Confusion Matrix:
+[[13055  2375   751]
+ [ 1469  5889  1127]
+ [ 3571  8602 76852]]
+Accuracy Score: 
+0.8425996780747816
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.72      0.81      0.76     16181
+     Neutral       0.35      0.69      0.46      8485
+    Positive       0.98      0.86      0.92     89025
+
+    accuracy                           0.84    113691
+   macro avg       0.68      0.79      0.71    113691
+weighted avg       0.89      0.84      0.86    113691
+
+full Data set with 80k max features
+Confusion Matrix:
+[[13081  2366   734]
+ [ 1460  5911  1114]
+ [ 3566  8576 76883]]
+Accuracy Score: 
+0.8432945439832529
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.72      0.81      0.76     16181
+     Neutral       0.35      0.70      0.47      8485
+    Positive       0.98      0.86      0.92     89025
+
+    accuracy                           0.84    113691
+   macro avg       0.68      0.79      0.72    113691
+weighted avg       0.89      0.84      0.86    113691
+
+full Data set with 80k max features
+Confusion Matrix:
+[[13035  2390   756]
+ [ 1470  5902  1113]
+ [ 3602  8732 76691]]
+Accuracy Score: 
+0.8411219885479062
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.72      0.81      0.76     16181
+     Neutral       0.35      0.70      0.46      8485
+    Positive       0.98      0.86      0.92     89025
+
+    accuracy                           0.84    113691
+   macro avg       0.68      0.79      0.71    113691
+weighted avg       0.89      0.84      0.86    113691
+
+full Data set with 80k max features
+Confusion Matrix:
+[[12116  2519  1546]
+ [ 1099  5516  1870]
+ [ 1718  4960 82347]]
+Accuracy Score: 
+0.8793923881397824
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.81      0.75      0.78     16181
+     Neutral       0.42      0.65      0.51      8485
+    Positive       0.96      0.92      0.94     89025
+
+    accuracy                           0.88    113691
+   macro avg       0.73      0.77      0.74    113691
+weighted avg       0.90      0.88      0.89    113691
+
+full Data set with 80k max features
+Confusion Matrix:
+[[12122  2525  1534]
+ [ 1100  5510  1875]
+ [ 1730  4991 82304]]
+Accuracy Score: 
+0.8790141699870703
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.81      0.75      0.78     16181
+     Neutral       0.42      0.65      0.51      8485
+    Positive       0.96      0.92      0.94     89025
+
+    accuracy                           0.88    113691
+   macro avg       0.73      0.77      0.74    113691
+weighted avg       0.90      0.88      0.89    113691
+
+full Data set with 80k max features
+Confusion Matrix:
+[[11819  2875  1487]
+ [  987  5788  1710]
+ [ 1627  5860 81538]]
+Accuracy Score: 
+0.8720567151313648
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.82      0.73      0.77     16181
+     Neutral       0.40      0.68      0.50      8485
+    Positive       0.96      0.92      0.94     89025
+
+    accuracy                           0.87    113691
+   macro avg       0.73      0.78      0.74    113691
+weighted avg       0.90      0.87      0.88    113691
+
+full Data set with 80k max features
+Confusion Matrix:
+[[12752  2202  1227]
+ [ 1345  5492  1648]
+ [ 2409  5583 81033]]
+Accuracy Score: 
+0.8732177569024813
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.77      0.79      0.78     16181
+     Neutral       0.41      0.65      0.50      8485
+    Positive       0.97      0.91      0.94     89025
+
+    accuracy                           0.87    113691
+   macro avg       0.72      0.78      0.74    113691
+weighted avg       0.90      0.87      0.88    113691
+
+Class weight Neutral=5 and Negative=3
+Confusion Matrix:
+[[13048  1856  1277]
+ [ 1498  5195  1792]
+ [ 2520  4674 81831]]
+Accuracy Score: 
+0.8802279863841465
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.76      0.81      0.78     16181
+     Neutral       0.44      0.61      0.51      8485
+    Positive       0.96      0.92      0.94     89025
+
+    accuracy                           0.88    113691
+   macro avg       0.72      0.78      0.75    113691
+weighted avg       0.90      0.88      0.89    113691
+
+Class weight Neutral=5 and Negative=4
+Confusion Matrix:
+[[13554  1530  1097]
+ [ 1808  4946  1731]
+ [ 3232  4470 81323]]
+Accuracy Score: 
+0.8780202478648266
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.73      0.84      0.78     16181
+     Neutral       0.45      0.58      0.51      8485
+    Positive       0.97      0.91      0.94     89025
+
+    accuracy                           0.88    113691
+   macro avg       0.72      0.78      0.74    113691
+weighted avg       0.89      0.88      0.88    113691
+
+Class weight Neutral=5 and Negative=3
+Confusion Matrix:
+[[13048  1856  1277]
+ [ 1498  5195  1792]
+ [ 2520  4674 81831]]
+Accuracy Score: 
+0.8802279863841465
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.76      0.81      0.78     16181
+     Neutral       0.44      0.61      0.51      8485
+    Positive       0.96      0.92      0.94     89025
+
+    accuracy                           0.88    113691
+   macro avg       0.72      0.78      0.75    113691
+weighted avg       0.90      0.88      0.89    113691
+
+Class weight Neutral=5 and Negative=3
+Confusion Matrix:
+[[13048  1856  1277]
+ [ 1498  5195  1792]
+ [ 2520  4674 81831]]
+Accuracy Score: 
+0.8802279863841465
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.76      0.81      0.78     16181
+     Neutral       0.44      0.61      0.51      8485
+    Positive       0.96      0.92      0.94     89025
+
+    accuracy                           0.88    113691
+   macro avg       0.72      0.78      0.75    113691
+weighted avg       0.90      0.88      0.89    113691
+
+Log Loss: 0.3410774649868115
+Class weight Neutral=5 and Negative=3
+Confusion Matrix:
+[[12793  2076  1312]
+ [ 1606  5079  1800]
+ [ 2707  5320 80998]]
+Accuracy Score: 
+0.8696378781082056
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.75      0.79      0.77     16181
+     Neutral       0.41      0.60      0.48      8485
+    Positive       0.96      0.91      0.94     89025
+
+    accuracy                           0.87    113691
+   macro avg       0.71      0.77      0.73    113691
+weighted avg       0.89      0.87      0.88    113691
+
+Log Loss: 0.359888936275293
+Class weight Neutral=5 and Negative=2
+Confusion Matrix:
+[[12122  2525  1534]
+ [ 1100  5510  1875]
+ [ 1730  4991 82304]]
+Accuracy Score: 
+0.8790141699870703
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.81      0.75      0.78     16181
+     Neutral       0.42      0.65      0.51      8485
+    Positive       0.96      0.92      0.94     89025
+
+    accuracy                           0.88    113691
+   macro avg       0.73      0.77      0.74    113691
+weighted avg       0.90      0.88      0.89    113691
+
+Log Loss: 0.3386460484547022
+Class weight Neutral=5 and Negative=3
+Confusion Matrix:
+[[13048  1856  1277]
+ [ 1498  5195  1792]
+ [ 2520  4674 81831]]
+Accuracy Score: 
+0.8802279863841465
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.76      0.81      0.78     16181
+     Neutral       0.44      0.61      0.51      8485
+    Positive       0.96      0.92      0.94     89025
+
+    accuracy                           0.88    113691
+   macro avg       0.72      0.78      0.75    113691
+weighted avg       0.90      0.88      0.89    113691
+
+Log Loss: 0.3410774649868115
+Class weight Neutral=5 and Negative=3
+Confusion Matrix:
+[[11579  2603  1999]
+ [ 2180  3736  2569]
+ [ 4243  7360 77422]]
+Accuracy Score: 
+0.8156934146062573
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.64      0.72      0.68     16181
+     Neutral       0.27      0.44      0.34      8485
+    Positive       0.94      0.87      0.91     89025
+
+    accuracy                           0.82    113691
+   macro avg       0.62      0.68      0.64    113691
+weighted avg       0.85      0.82      0.83    113691
+
+Log Loss: 0.4827036224858056
+Class weight Neutral=5 and Negative=3
+Confusion Matrix:
+[[11452  3742   987]
+ [ 2048  5079  1358]
+ [ 5107 14936 68982]]
+Accuracy Score: 
+0.7521527649506118
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.62      0.71      0.66     16181
+     Neutral       0.21      0.60      0.32      8485
+    Positive       0.97      0.77      0.86     89025
+
+    accuracy                           0.75    113691
+   macro avg       0.60      0.69      0.61    113691
+weighted avg       0.86      0.75      0.79    113691
+
+Log Loss: 0.6083711604535675
+Final model run 88%
+Confusion Matrix:
+[[13048  1856  1277]
+ [ 1498  5195  1792]
+ [ 2520  4674 81831]]
+Accuracy Score: 
+0.8802279863841465
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.76      0.81      0.78     16181
+     Neutral       0.44      0.61      0.51      8485
+    Positive       0.96      0.92      0.94     89025
+
+    accuracy                           0.88    113691
+   macro avg       0.72      0.78      0.75    113691
+weighted avg       0.90      0.88      0.89    113691
+
+Log Loss: 0.3410774649868115
